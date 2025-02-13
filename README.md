@@ -23,4 +23,4 @@ This project is built with React, TailwindCSS, and shadcn/ui components, creatin
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.# car-controller
+📱 React Native app for Bluetooth-controlled Arduino car with 🕹️ manual & 🤖 autonomous modes, 4-directional control, and 🗺️ custom waypoint mapping!
